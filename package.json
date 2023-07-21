@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/passslot/cordova-plugin-passbook.git"
+    "url": "git+https://github.com/luisvoliveira/OS-cordova-plugin-passbook.git"
   },
   "keywords": [
     "ecosystem:cordova",
