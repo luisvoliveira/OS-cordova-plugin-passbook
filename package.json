@@ -5,6 +5,7 @@
   "cordova": {
     "id": "com.passslot.cordova.plugin.passbook",
     "platforms": [
+      "android",
       "ios"
     ]
   },
