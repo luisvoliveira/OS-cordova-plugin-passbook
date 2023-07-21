@@ -8,18 +8,18 @@ public class Passbook extends CordovaPlugin {
 
     @Override
     public boolean execute(String action, JSONArray data, CallbackContext callbackContext) throws JSONException {
-		
+		return false;
     }
 	
     public boolean available(String action, JSONArray data, CallbackContext callbackContext) throws JSONException {
-		
+		return false;
     }
 	
     public boolean downloadPass(String action, JSONArray data, CallbackContext callbackContext) throws JSONException {
-		
+		return false;
     }
 	
     public boolean addPass(String action, JSONArray data, CallbackContext callbackContext) throws JSONException {
-		
+		return false;
     }
 }
