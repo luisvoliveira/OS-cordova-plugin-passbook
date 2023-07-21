@@ -11,6 +11,18 @@
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
+	
+	<!-- Android -->
+	<platform name="android">
+
+		<source-file src="src/android/Passbook.java" target-dir="src/com/example/plugin/"/>
+		<config-file target="res/xml/config.xml" parent="/*">
+		  <feature name="Passbook">
+			<param name="android-package" value="com.example.plugin.Passbook"/>
+		  </feature>
+		</config-file>
+
+	</platform>
 
     <!-- ios -->
     <platform name="ios">
