@@ -16,7 +16,7 @@ Or the latest (unstable) version:
 
 
 - iOS
-- ~~Android~~ (coming soon)
+- ~~Android~~ (coming soon. Is available but only to generate the plugin in Outsystems. It doesn't do anything.)
 
 ## Example
 
